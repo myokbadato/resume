@@ -1,0 +1,347 @@
+.contents{
+    height: 1150px;
+    width: 950px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: #000;
+    background-color: #f9fbfc;
+    border-style: outset;
+    
+}
+.contents .top{
+    width: 100px;
+    height: 380px;
+    position: absolute;
+    width: inherit;
+    margin-right: 100px;
+
+}
+
+.contents .left{
+    width: 300px;
+    height: inherit;
+ 
+    border-top-right-radius: 10%;
+
+}
+.contents #picture{
+    height: 150px;
+    width: 150px;
+    margin-left: 75px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.contents #name{
+    color: #000;
+    font-family: sans-serif;
+    font-size: x-large;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 250px;
+    font-size: 30px;
+    font-weight: bold;
+    
+
+    
+}
+
+.contents #intro{
+    font-size: small;
+    margin-left: 250px;
+    margin-right: 50px;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+.contents #locIcon{
+    width: 25px;
+    height: 25px;
+    margin-left: 250px;
+    margin-top: 195px;
+    position: absolute;
+    top: 5px;
+}
+
+.contents #contIcon{
+    width: 25px;
+    height: 25px;
+    margin-left: 518px;
+    margin-top: 197px;
+    position: absolute;
+    top: 5px;
+}
+.contents #loc{
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 280px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.contents #cont{
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 548px;
+    margin-top: 5px;
+    font-weight: bold;
+    position: absolute;
+    top: 5px;
+    margin-top: 203px;
+}
+
+.contents #emIcon{
+    width: 35px;
+    height: 35px;
+    margin-left: 673px;
+    margin-top: 194px;
+    position: absolute;
+    top: 5px;
+}
+
+.contents #email{
+    font-family: sans-serif;
+    font-size: small;
+    margin-left: 713px;
+    margin-top: 5px;
+    font-weight: bold;
+    position: absolute;
+    top: 5px;
+    margin-top: 203px;
+}
+
+.contents .midContent{
+
+    width: 850px;
+    margin-left: 75px;
+    height: 500px;
+    margin-top: 275px;
+    position: absolute;
+
+}
+
+#workExpHeader{
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+
+#DA_logo{
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    position: absolute;
+}
+
+#text1{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 75px;
+    position: absolute;
+}
+
+#DA{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 205px; 
+    color: dimgray;
+    position: absolute;
+}
+
+#date{
+    font-size: 14px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 40px;
+    font-style: italic;
+}
+
+#info{
+    margin-left: 75px; 
+    font-size: small;
+    font-family: sans-serif;
+    margin-right: 50px;
+}
+
+#educHeader{
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#evsuIc{
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 15px;
+}
+
+#date1{
+    font-size: 14px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 10px;
+    font-style: italic;
+    color: dimgray;
+    position: absolute;
+}
+
+#evsu{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 32px;
+    font-weight: bold;
+    position: absolute;   
+}
+
+#course{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 55px;
+    position: absolute;   
+}
+
+#adfcIc{
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 110px;
+}
+
+#date2{
+    font-size: 14px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 105px;
+    font-style: italic;
+    color: dimgray;
+    position: absolute;
+}
+
+#adfc{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 127px;
+    font-weight: bold;
+    position: absolute;   
+}
+
+#strand{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 148px;
+    position: absolute;   
+}
+
+#lnhsIc{
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 205px;
+}
+
+#date3{
+    font-size: 14px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 200px;
+    font-style: italic;
+    color: dimgray;
+    position: absolute;
+}
+
+#lnhs{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 222px;
+    font-weight: bold;
+    position: absolute;   
+}
+
+#mcsIc{
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    position: absolute;
+    margin-top: 295px;
+}
+
+#date4{
+    font-size: 14px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 295px;
+    font-style: italic;
+    color: dimgray;
+    position: absolute;
+}
+
+#mcs{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 75px; 
+    margin-top: 317px;
+    font-weight: bold;
+    position: absolute;   
+}
+
+.contents .footer{
+    margin-top: 400px;
+    position: absolute;
+
+    
+}
+
+#ul{
+    font-size: 15px;
+    font-family: sans-serif; 
+    position: absolute;
+}
+
+#skills{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 15px; 
+    font-weight: bold;
+    position: absolute;
+
+}
+
+#ul2{
+    font-size: 15px;
+    font-family: sans-serif; 
+    margin-top: 20px;
+}
+
+#lang{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 15px;
+
+}
+
+.contents .footer2{
+    margin-top: 415px;
+    margin-left: 300px;
+
+}
+
+#hr1{
+    margin-left: 15px;
+    position: absolute;
+    margin-top: 15px;
+}
